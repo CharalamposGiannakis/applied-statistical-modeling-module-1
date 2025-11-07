@@ -1,13 +1,13 @@
 # applied-statistical-modeling-module-1
 ANOVA, ANCOVA, Randomized Blocks, LASSO
 
-This repository contains the report for a statistical analysis project completed as part of the **MSc Business Analytics – Computational Intelligence (VU Amsterdam)** program.  
-The project demonstrates the use of classical statistical modeling techniques to analyze different datasets and draw meaningful, data-supported conclusions.
+This repository contains a data analysis project focused on applying classical statistical modeling techniques to real datasets.  
+The goal of the project is to demonstrate how methods such as ANOVA, ANCOVA, randomized block designs, and LASSO regression can be used to extract meaningful insights and support data-driven conclusions.
 
 ---
 
 ## 📄 Contents
-- **stat_mod_assign_1.pdf** — Full report (generated from an RMarkdown `.Rmd` source)
+- **applied_statistical_analysis_module_1.pdf** — Full report (generated from an RMarkdown `.Rmd` source)
 
 The PDF includes the following sections:
 
