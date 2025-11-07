@@ -7,7 +7,7 @@ The goal of the project is to demonstrate how methods such as ANOVA, ANCOVA, ran
 ---
 
 ## 📄 Contents
-- **applied_statistical_analysis_module_1.pdf** — Full report (generated from an RMarkdown `.Rmd` source)
+- **applied_statistical_modeling_module_1.pdf** — Full report (generated from an RMarkdown `.Rmd` source)
 
 The PDF includes the following sections:
 
